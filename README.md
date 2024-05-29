@@ -39,7 +39,8 @@ poder tomar las fotografías, manipulación del DOM para imprimir mensajes por p
 
 <hr>
 
-<p align="center">Página inicial y formulario de registro de AluraBank, una plataforma para crear un formulario.</p>
+<h1 align="center"> Página inicial y formulario de registro de AluraBank, una plataforma para crear un formulario </h1>
+
 <p align="center"> <img width="1000" heigth="400" src="img/portada Github.png"> </p>
 
 
@@ -50,8 +51,8 @@ poder tomar las fotografías, manipulación del DOM para imprimir mensajes por p
 ## 🔎 Deploy
 <div align="center">
   <h3>
-    <a href="http://127.0.0.1:5500/" >
-      🔗 Servidor Creado en json-server es local y solo se ejecuta en nuestra computadora, para ello debes descargarlo y trabajarlo en tu pc.
+   <a href="https://bety2022.github.io/Proyecto-Fokus/" >
+      🔗 Visitar la Plataforma de AluraBank
     </a>
 </div>
 
