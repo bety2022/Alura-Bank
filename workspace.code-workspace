@@ -1,0 +1,15 @@
+{
+	"folders": [],
+	"settings": {
+		"files.exclude": {
+			".mule": true,
+			"**/.DS_Store": true,
+			"**/.git": false,
+			"**/.hg": true,
+			"**/.svn": true,
+			"**/CVS": true,
+			"**/Thumbs.db": true
+		},
+		"liveServer.settings.multiRootWorkspaceName": "JAVASCRIPT-REQUESTS"
+	}
+}
