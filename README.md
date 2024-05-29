@@ -60,7 +60,7 @@ poder tomar las fotografías, manipulación del DOM para imprimir mensajes por p
 ## 🛠️ Herramientas implementadas 
 
   - NodeJS
-  - Json-server
+  - JSON-server
   - API
   - DOM
   - Layouts
@@ -70,10 +70,6 @@ poder tomar las fotografías, manipulación del DOM para imprimir mensajes por p
   - JavaScript
   - Git || GitHub || GitHub Pages
     
-## Screenshots
-![Screenshot de la pantalla inicial de AluraBank](img/codigo_qr.png)
-![Screenshot de la pantalla del Reconocimiento AluraBank](img/reconocimento.png)
-![Screenshot de la pantalla del envio exitoso de video](img/encabezado/screenshoot_c.PNG)
 
 <div align="center">
     <a href="https://skillicons.dev">
