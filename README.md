@@ -1,4 +1,4 @@
-# Curso JavaScript: Creando Solicitudes
+# JavaScript: validando formularios
 
 <p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formularios"> </p>
 
