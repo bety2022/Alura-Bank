@@ -37,13 +37,11 @@ Validity State para encontrar y definir los errores customizados y la manipulaci
 Para poder tomar el curso debemos tener conocimientos mínimos sobre JavaScript asíncrono, donde lo vamos a utilizar para 
 poder tomar las fotografías, manipulación del DOM para imprimir mensajes por pantalla y mostrar la fotografía en nuestra pantalla, almacenamiento local para guardar datos y HTML y CSS.
 
-
-
-
 <hr>
 
-<p align="center"> <img width="400" heigth="100" src="img/portada Github.png"> </p>
 <p align="center">Página inicial y formulario de registro de AluraBank, una plataforma para crear un formulario.</p>
+<p align="center"> <img width="1000" heigth="400" src="img/portada Github.png"> </p>
+
 
 <br />
   ❤️ ESTADO: Finalizado
