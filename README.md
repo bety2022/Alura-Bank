@@ -51,7 +51,7 @@ poder tomar las fotografías, manipulación del DOM para imprimir mensajes por p
 ## 🔎 Deploy
 <div align="center">
   <h3>
-   <a href="https://bety2022.github.io/Proyecto-Fokus/" >
+   <a href="https://bety2022.github.io/Alura-Bank/" >
       🔗 Visitar la Plataforma de AluraBank
     </a>
 </div>
