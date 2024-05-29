@@ -2,7 +2,7 @@
 
 <hr>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo de Alura"> </p>
+<p align="center"> <img src="img/68747470733a2f2f696d6775722e636f6d2f6d49426d63454c2e706e67.png" alt="Logo de Alura"> </p>
 <p align="center">Formulario de creación de cuenta para el banco virtual AluraBank.</p>
 
 ## Tecnologías utilizadas durante el curso
