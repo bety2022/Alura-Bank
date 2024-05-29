@@ -38,7 +38,7 @@ Para poder tomar el curso debemos tener conocimientos mínimos sobre JavaScript 
 poder tomar las fotografías, manipulación del DOM para imprimir mensajes por pantalla y mostrar la fotografía en nuestra pantalla, almacenamiento local para guardar datos y HTML y CSS.
 
 
-<p align="center"> <img width="1000" heigth="300" src="img/encabezado/screenshoot_d.PNG" alt="Javascript: creando requisiciones"> </p>
+
 
 <hr>
 
