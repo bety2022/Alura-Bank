@@ -13,7 +13,7 @@
  
 
 
-👩‍💻 💻 Desarrollo del proyecto Alura-Bank: " Asumiremos el rol de unos desarrolladores que le asignaron la tarea de validar el formulario de registro de AluraBank "
+👩‍💻 💻 Desarrollo del proyecto Alura-Bank: " Asumiremos el rol de un desarrollador que le asignaron la tarea de validar el formulario de registro de AluraBank "
 
 Vamos a ver cómo funciona.
 
